@@ -56,3 +56,8 @@ Your `WIIU` folder should look like this now
 Open the Homebrew Launcher, and launch the NoSSL patcher app that you installed. It should return to the Homebrew launcher after a few seconds.
 
 7: If everything went well, HTTPS traffic should appear on Fiddler! Congratulations, you did it correctly.
+
+
+## A few things to know.
+
+For reasons currently unknown, NoSSL patcher does NOT work with Aroma CFW. Please use Tiramisu for this guide.
