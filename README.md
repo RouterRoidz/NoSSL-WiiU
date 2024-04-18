@@ -12,7 +12,7 @@ A guide on how to safely use NoSSL on Wii U
 
 If Fiddler prompts you to install a certificate, install it, as not doing so may not make this work.
 
-3: [Download this FiddlerScript](https://cdn.discordapp.com/attachments/895494927033729044/1091965744331358319/CustomRules.js), and replace the already existing one located in `C:\Users\[YourName]\Documents\Fiddler2\Scripts`
+3: [Download this FiddlerScript](https://drive.google.com/file/d/1Owood0g3mphR4jAl6NyRja90lE9l14JH/view?usp=sharing), and replace the already existing one located in `C:\Users\[YourName]\Documents\Fiddler2\Scripts`
 
 4: [Go to this site](https://certs.larsenv.xyz/) to download the needed certificates. You will need `Wii U Common Prod 1` and `Wii U Account Prod 1`
 
