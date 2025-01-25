@@ -12,7 +12,7 @@ A guide on how to safely use NoSSL on Wii U
 
 If Fiddler prompts you to install a certificate, install it, as not doing so may not make this work.
 
-3: [Download this FiddlerScript](https://drive.google.com/file/d/1Owood0g3mphR4jAl6NyRja90lE9l14JH/view?usp=sharing), and replace the already existing one located in `C:\Users\[YourName]\Documents\Fiddler2\Scripts`, with `[YourName]` being the name of your user account.
+3: Download the CustomRules.js file, and replace the already existing one located in `C:\Users\[YourName]\Documents\Fiddler2\Scripts`, with `[YourName]` being the name of your user account.
 
 4: [Go to this site](https://certs.larsenv.xyz/) to download the needed certificates. You will need `Wii U Common Prod 1` and `Wii U Account Prod 1`
 
@@ -41,7 +41,7 @@ Your `WIIU` folder should look like this now
 
 ## Part 2: Wii U Configuration
 
-1: Download the [NoSSL patcher from here](https://cdn.discordapp.com/attachments/895494927033729044/906498563096313856/Wii_U_NoSSL_Patcher.zip)
+1: Download the nossl_patcher.zip file.
 
 2: Open System Settings on your Wii U and go to the Internet Settings page for your Access Point. Scroll to the far right until you see `Proxy Settings`
 
